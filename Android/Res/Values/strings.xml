@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+//Start
+    <string name="main_log_in">Log In</string>
+    <string name="my_app">My App</string>
+    <string name="main_register">Register</string>
+//Log in
+    <string name="log_in">Log In</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="wrong_username">Wrong username</string>
+    <string name="logIn_username">Username</string>
+    <string name="logIn_password">Password</string>
+    <string name="enter">Enter</string>
+    <string name="info">""</string>
+    <string name="forgot_password">Forgot password?</string>
+//Register
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="create">Create</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+//Profile
+    <string name="welcome">Welcome</string>
+//Forgot password
+    <string name="not_same">Not same</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="again">Again</string>
+    <string name="change">Change</string>
+</resources>
