@@ -55,8 +55,8 @@ public class Main {
 			int n = scan.nextInt();
 
 			kenanRoot(x, n);
-			NthRoot(x, n);
 			nthRoot(x, n);
+			NthRoot(x, n);
 		}
 	}
 }
